@@ -1,0 +1,3 @@
+Source repository: JunXu-EMSLab/JunXu-EMSLab-emslab-website
+Source commit: ef91fa8e3277fb4de7680bc6c487d585f97daa09
+Built and validated: 2026-08-19
